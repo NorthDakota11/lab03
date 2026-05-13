@@ -1,0 +1,5 @@
+/home/king/NorthDakota11/workspace/projects/lab03/_build/CMakeFiles/print.dir
+/home/king/NorthDakota11/workspace/projects/lab03/_build/CMakeFiles/example1.dir
+/home/king/NorthDakota11/workspace/projects/lab03/_build/CMakeFiles/example2.dir
+/home/king/NorthDakota11/workspace/projects/lab03/_build/CMakeFiles/edit_cache.dir
+/home/king/NorthDakota11/workspace/projects/lab03/_build/CMakeFiles/rebuild_cache.dir
